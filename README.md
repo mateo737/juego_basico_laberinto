@@ -17,3 +17,4 @@ Este es un juego simple de laberinto en Python llamado "Esquiva la Mina". El obj
 Ejecute el script y siga las instrucciones para ingresar direcciones y mover al jugador.
 
 
+¡Diviértete jugando Laberinto!
